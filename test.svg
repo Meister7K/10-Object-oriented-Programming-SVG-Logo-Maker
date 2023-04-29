@@ -1,0 +1,5 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 200 200" width="200" height="200">
+<polygon height="100%" width="100%" points="0,0 200,0 200,100 100,200 0,100"  fill="blue"/>
+<text font-weight="bold" x="100" y="100" font-size="70" text-anchor="middle" fill="white">XOX</text>
+</svg>
